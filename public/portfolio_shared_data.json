@@ -2,7 +2,7 @@
   "basic_info": {
     "name": "Samus Aran",
     "titles": [
-      "Software Developer"
+      "Bounty Hunter"
     ],
     "social": [
       {
@@ -11,12 +11,12 @@
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "facebook",
+        "url": "https://www.facebook.com",
+        "class": "fab fa-facebook"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "samusAran.png"
   },
   "skills": {
     "icons": [

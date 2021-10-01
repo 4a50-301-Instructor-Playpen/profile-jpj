@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Samus Aran. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "description": "👋 My name is Samus Aran.  I am a former member of the Federation Police.  Having served with distinction I ended my service to become a bounty hunter.  I am the one you send in when everyone else has failed, or when failure cannot be an option.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -21,16 +21,16 @@
       "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-atom-original",
+          "name": "Chozo Designed Power Suit"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-confluence-original",
+          "name": "Phazon Beam Weaponry"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-jira-plain",
+          "name": "Grappling Hook Technology"
         }
       ]
     },
