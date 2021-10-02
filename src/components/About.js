@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
+import android from "@iconify/icons-logos/android";
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+import amazonConnect from "@iconify/icons-logos/amazon-connect";
 
 class About extends Component {
   render() {
@@ -11,8 +11,6 @@ class About extends Component {
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
-      var hello = this.props.resumeBasicInfo.description_header;
-      var about = this.props.resumeBasicInfo.description;
     }
 
     return (
@@ -31,7 +29,7 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={angularIcon}
+                    icon={android}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
@@ -39,7 +37,7 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={vueIcon}
+                    icon={amazonConnect}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
@@ -77,10 +75,10 @@ class About extends Component {
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} :) </span>
+                    <span className="wave">Greetings!</span>
                     <br />
                     <br />
-                    {about}
+                    👋 My name is Samus Aran.  I am a former member of the Federation Police.  Having served with distinction I ended my service to become a <strong>Bounty Hunter</strong>.  I am the one you send in when everyone else has failed, or when failure cannot be an option.
                   </div>
                 </div>
               </div>

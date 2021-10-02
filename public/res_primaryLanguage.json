@@ -11,12 +11,13 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Defeat Of Space Pirates on Planet Zebes",
+      "startDate": "1986",
+      "description": "As a last resort, the Federation decides to me to penetrate the Pirates' base and destroy Mother Brain, the biomechanical life-form that controls the Space Pirates' fortress and its defenses. I was chosen for the mission.  Landing on the surface of Zebes and exploring the planet, I traveled through the planet's caverns. I came across Kraid, an ally of the Space Pirates, and Ridley, the Space Pirates' commander, and defeated them both. I did find and destroy Mother Brain.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/motherBrainMetroidOne.gif",
+        "images/ridley.jpeg",
+        "images/zebes.png"
       ],
       "url": "",
       "technologies": [
@@ -29,38 +30,44 @@
           "name": "Phazon Beam Weaponry"
         },
         {
-          "class": "devicon-jira-plain",
+          "class": "devicon-ssh-original",
           "name": "Grappling Hook Technology"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "Eradication of Dangerous Metroids on SR388",
+      "startDate": "1992",
+      "description": "Commisioned by the galactic federation, I was dispatched to SR388 to eradicate the growing Metroid Menace.  Destroying the queen and all other metroids save one small baby Metroid.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/queenMetroid.gif",
+        "images/metroid2a.gif",
+        "images/metroid2b.png"
       ],
       "url": "https://github.com",
       "technologies": [
         {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "devicon-atom-original",
+          "name": "Chozo Designed Power Suit"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "devicon-confluence-original",
+          "name": "Power Beam Weaponry"
+        },
+        {
+          "class": "devicon-ssh-original",
+          "name": "Metroid Familiarity"
         }
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Defeat of the Metroid Prime",
+      "startDate": "2002",
+      "description": "After crashing into Talon IV, I learned that a heavily mutated Metroid from a Phazon meteor is poised to cause heavy destruction, like always I defeated it.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/metroidprime1.jpg",
+        "images/metroidPrime.jpg",
+        "images/metroidprime2.jpg"
       ],
       "url": "https://github.com",
       "technologies": [
